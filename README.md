@@ -33,7 +33,7 @@ During internship I had 6 weeks course including testing basics, ISTQB knowledge
 
 ## Courses
 * testuj.pl - [Akademia Testowania Plus](https://drive.google.com/file/d/1PfYLtKvSq2Kk5HeXn_rjK3bfj10-Bn0D/view?usp=sharing)
-*Udemy – 100 Days of Code: The Complete Python Pro Bootcamp 2022 – in  progress
+* Udemy – 100 Days of Code: The Complete Python Pro Bootcamp 2022 – in  progress
 * Udemy - [Podstawy manualnego testowania oprogramowania](https://drive.google.com/file/d/1SwBZQk2rKeWLDk0lIeIREeOfq8YsB6YO/view?usp=sharing)
 * Udemy - [Praktyczny kurs testowania oprogramowania](https://drive.google.com/file/d/1N7leD2Au5u407L8HWO2vytBfktjIazEj/view?usp=sharing)
 * Udemy – [Postman od podstaw – testowanie REST API]( https://drive.google.com/file/d/1J4eMv8RGEsjqIBW2f4uWVGPoEHHeO3Rs/view?usp=sharing)
