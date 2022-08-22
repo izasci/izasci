@@ -7,7 +7,7 @@
 
 ## About me
 I’ve worked as a pediatric dentist for several years, now I’m on my way to change my professional life completely. From June 1st 2022 I’m an intern tester. My adventure with testing has started 9 months ago and my first experiences with crowdtesting and voluntary projects have shown me that my personality fits here perfectly. 
-During internship I had 6 weeks course including testing basics, ISTQB knowledge, introducing to GIT, SQL basics (writing CRUD queries with SELECT, aggregate functions, JOIN functions, subqueries; adding, updating and removing data from data base) and API testing (SoapUI – SOAP and REST API testing using properties, data transfer, assertions with regEx; Postman - creating tests with Chai assertions, variables, environments). Now I’m focused on improving my technical skills (SQL, API testing) so I’ve recently enrolled Python course. 
+During internship I had 6 weeks course including testing basics, ISTQB knowledge, introducing to GIT, SQL basics (writing CRUD queries with SELECT, aggregate functions, JOIN functions, subqueries; adding, updating and removing data from data base) and API testing (SoapUI – SOAP and REST API testing using properties, data transfer, assertions with regEx; Postman - creating tests with Chai assertions, variables, environments). Now I’m focused on improving my technical skills (SQL, API testing) and I’ve recently enrolled Python course. 
 	
 ## Tech skills
 * Software testing
