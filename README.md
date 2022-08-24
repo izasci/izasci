@@ -17,10 +17,11 @@ During internship I had 6 weeks course including testing basics, ISTQB knowledge
 * SCRUM
 * SQL
 * API testing
+* Python (in progress)
 
 ## Tools
 * TestLink, qTest - test & requirements management
-* Jira, Trello - issue tracking and project management tool for developers
+* Jira, Trello, Confluence - issue tracking and project management tool for developers
 * Slack, MSTeams - communication tool for team members
 * Bug Magnet - exploratory testing assistant for Chrome and Firefox
 * ShareX, PicPick - screen capture software
