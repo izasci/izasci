@@ -4,6 +4,7 @@
 * [Tools](#tools)
 * [Certificates](#Certificates)
 * [Courses](#Courses)
+* [Repositories](#Repositories)
 
 ## About me
 I’ve worked as a pediatric dentist for several years, now I’m on my way to change my professional life completely. From June 1st 2022 I’m an intern tester. My adventure with testing has started 9 months ago and my first experiences with crowdtesting and voluntary projects have shown me that my personality fits here perfectly. 
@@ -41,3 +42,13 @@ During internship I had 6 weeks course including testing basics, ISTQB knowledge
 * Atlassian University– [Jira Fundamentals](https://drive.google.com/file/d/1NBIvtNvwRaw3BcJqO3xQbnk1Z06TACAq/view?usp=sharing)
 * Atlassian University– [Confluence Fundamentals](https://drive.google.com/file/d/162Bx2TAs2O6ua7nJ0f-5O4m6S9vKuw4h/view?usp=sharing)
 * Atlassian University– [Trello Fundamentals](https://drive.google.com/file/d/10dlMnIdbhdj1-tX2rRT90DnEMCq0xSjL/view?usp=sharing)
+
+## Repositories
+* [Guru99_BankingApp](https://github.com/izasci/Guru99_BankingApp) - test cases and traceability matrix created as a part of live project from Guru99 based on business and functional requirements
+* [SQL exercises](https://github.com/izasci/SQL_queries) - queries I've made using SELECT, aggregate functions, JOIN's, subqueries and more, I've worked with MySQL Workbench and free relational database Sakila
+* [SOAP API testing calculator](https://github.com/izasci/API_testing) - test cases to check basic functionality of calculator based on [Calculator WSDL](http://www.dneonline.com/calculator.asmx?WSDL), to create test cases I used assertions with regEx, collection properties and data tranfer to perform tests using CRUD workflow
+* [REST API CRUD Workflow](https://github.com/izasci/StudentRESTProject) - CRUD Workflow including POST, GET, PUT and DELETE methodes
+* [Linux terminal commands exercises](https://github.com/izasci/Linux_terminal_exercises) - basics terminal commands, tasks with answers
+* [Calculator written in Python](https://github.com/izasci/pythonCalculator) - exercise from course, console program using 4 basic operations (add, subtract, multiply and divide), as a user we can choose two FLOAT and symbol and after calculate we can use our result form previous operation as a first FLOAT to do next one
+* [BlackJackGame](https://github.com/izasci/blackjackGame) - task from python course, popular game with some differences: our deck is unlimited and to choose card is used pseudo-randomization
+* [GuessTheNumber](https://github.com/izasci/GuessTheNumberGame) - computer choose one number in range 1-100, as a user we're guessing, after our guess app display information: too high, too low, you win; there are two levels of game: easy(10 attepts) and hard (5)
